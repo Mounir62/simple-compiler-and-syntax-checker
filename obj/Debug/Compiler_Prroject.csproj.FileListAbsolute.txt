@@ -1,0 +1,37 @@
+C:\Users\ahmed\source\repos\Compiler_Prroject\bin\Debug\Compiler_Prroject.exe.config
+C:\Users\ahmed\source\repos\Compiler_Prroject\bin\Debug\Compiler_Prroject.exe
+C:\Users\ahmed\source\repos\Compiler_Prroject\bin\Debug\Compiler_Prroject.pdb
+C:\Users\ahmed\source\repos\Compiler_Prroject\obj\Debug\Compiler_Prroject.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\Compiler_Prroject\obj\Debug\Compiler_Prroject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\source\repos\Compiler_Prroject\obj\Debug\Compiler_Prroject.Form1.resources
+C:\Users\ahmed\source\repos\Compiler_Prroject\obj\Debug\Compiler_Prroject.Form2.resources
+C:\Users\ahmed\source\repos\Compiler_Prroject\obj\Debug\Compiler_Prroject.Properties.Resources.resources
+C:\Users\ahmed\source\repos\Compiler_Prroject\obj\Debug\Compiler_Prroject.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\Compiler_Prroject\obj\Debug\Compiler_Prroject.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Compiler_Prroject\obj\Debug\Compiler_Prroject.exe
+C:\Users\ahmed\source\repos\Compiler_Prroject\obj\Debug\Compiler_Prroject.pdb
+D:\Compiler_Prroject (2)\Compiler_Prroject\bin\Debug\Compiler_Prroject.exe.config
+D:\Compiler_Prroject (2)\Compiler_Prroject\bin\Debug\Compiler_Prroject.exe
+D:\Compiler_Prroject (2)\Compiler_Prroject\bin\Debug\Compiler_Prroject.pdb
+D:\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.csproj.AssemblyReference.cache
+D:\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.Form1.resources
+D:\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.Form2.resources
+D:\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.Properties.Resources.resources
+D:\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.csproj.GenerateResource.cache
+D:\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.csproj.CoreCompileInputs.cache
+D:\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.exe
+D:\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.pdb
+E:\MSA temp\CS334\Compiler_Prroject (2)\Compiler_Prroject\bin\Debug\Compiler_Prroject.exe.config
+E:\MSA temp\CS334\Compiler_Prroject (2)\Compiler_Prroject\bin\Debug\Compiler_Prroject.exe
+E:\MSA temp\CS334\Compiler_Prroject (2)\Compiler_Prroject\bin\Debug\Compiler_Prroject.pdb
+E:\MSA temp\CS334\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.csproj.AssemblyReference.cache
+E:\MSA temp\CS334\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.csproj.SuggestedBindingRedirects.cache
+E:\MSA temp\CS334\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.Form1.resources
+E:\MSA temp\CS334\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.Form2.resources
+E:\MSA temp\CS334\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.Properties.Resources.resources
+E:\MSA temp\CS334\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.csproj.GenerateResource.cache
+E:\MSA temp\CS334\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.csproj.CoreCompileInputs.cache
+E:\MSA temp\CS334\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.exe
+E:\MSA temp\CS334\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.pdb
+E:\MSA temp\CS334\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.Form3.resources
+E:\MSA temp\CS334\Compiler_Prroject (2)\Compiler_Prroject\obj\Debug\Compiler_Prroject.variable.resources
