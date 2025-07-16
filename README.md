@@ -75,7 +75,7 @@ switch(x) {
 
 * `Form4.cs` – Main compiler logic and UI for code checking
 * `Form1.cs` – Main menu UI to navigate to Final Phase
-* `Form2.cs`, `Form3.cs` – Earlier phases
+* `Form2.cs`, `Form3.cs` – Earlier phases of the project
 
 ## 🧪 How to Run
 
