@@ -1,4 +1,4 @@
-# Simple Compiler & Syntax Checker (Form4)
+# Simple Compiler & Syntax Checker
 
 This project is a **C# Windows Forms application** that performs **syntax analysis and interpretation** of a simplified programming language. `Form4.cs` represents the final and most feature-complete version of the compiler.
 
